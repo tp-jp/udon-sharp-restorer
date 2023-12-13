@@ -19,7 +19,7 @@ vpm add repo https://tp-jp.github.io/vpm-repos/index.json
 
 VCCから任意のプロジェクトを選択し、「Manage Project」から「Manage Packages」を開きます。
 一覧の中から `UdonSharpRestorer` の右にある「＋」ボタンをクリックするか「Installed Vection」から任意のバージョンを選択することで、プロジェクトにインポートします。 
-![image](https://github.com/tp-jp/udon-sharp-config-restorer/assets/130125691/caf609e0-b0c4-4bc8-9d1b-37392813dbb2)
+![image](https://github.com/tp-jp/udon-sharp-restorer/assets/130125691/c3761fd2-1f76-4353-9723-0c4605ccff39)
 
 リポジトリを使わずに導入したい場合は [releases](https://github.com/tp-jp/udon-sharp-restorer/releases) から unitypackage をダウンロードして、プロジェクトにインポートしてください。
 
